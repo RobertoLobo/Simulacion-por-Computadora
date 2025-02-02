@@ -1,2 +1,2 @@
 # Simulacion-por-Computadora
-Simulación por Computadora, 25A, CUCEI
+Práctica 01 : Modelado de Piezas de Tetris en 3D
